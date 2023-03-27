@@ -23,3 +23,5 @@ for i, filename in enumerate(files): # 파일 리스트에서 파일의 인덱�
     os.rename(os.path.join(path, filename), os.path.join(path, new_filename)) # 파일 이동을 수행하여 파일명 변경
 
     #git 체크 하냐?
+
+    #새로운 가지다.
