@@ -3,7 +3,6 @@ new_word = ""
 
 #type1
 for str in word:
-    print(str)
     new_word = str+new_word
 
 print(new_word)
